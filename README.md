@@ -2,6 +2,12 @@
 
 ## Prerequisites
 
+#### Additional Prerequisites
+```
+docker version 17.03+.
+kubectl and access to a Kubernetes cluster of a compatible version.
+```
+
 **1. Compile and install from master**
 
 Prerequisites - git, go version 1.19
