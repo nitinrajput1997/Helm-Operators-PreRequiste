@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-**1. Compile and install from master 
+**1. Compile and install from master**
 
 Prerequisites - git, go version 1.19
 Ensure that your GOPROXY is set to "https://proxy.golang.org|direct"
@@ -13,7 +13,7 @@ git checkout master
 make install
 ```
 
-**2. Install from GitHub release
+**2. Install from GitHub release**
 
 Prerequisites - curl, gpg version 2.0+
 
